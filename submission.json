@@ -1,0 +1,7 @@
+{
+  "prompt": "A haunting, emotionally powerful data visualization artwork about global deforestation. The image shows the silhouette of a massive tree trunk cross-section, like a tree stump viewed from above. The rings of the tree are visible, but each ring represents a decade. The outer rings are progressively thinner, cracked, and fading to ash-gray, while the innermost rings are rich, deep green and lush. Between the rings, tiny photorealistic fragments of forest canopy are visible in the older rings, transitioning to barren desert/brown earth in the newer outer rings. The entire composition sits against a deep black background. The overall mood is somber, elegiac - like looking at a tombstone. The tree rings naturally encode the passage of time and the diminishing green space. No text, no labels, no axes, no legend. Single frame. Magazine-quality editorial illustration style. High detail, 8K resolution feel. The visual metaphor is immediate: the life rings of the earth are running out.",
+  "model": "Google Imagen (Gemini image generation)",
+  "dataset_name": "Global Forest Resources Assessment (FRA) 2020",
+  "dataset_url": "https://www.fao.org/forest-resources-assessment/2020/en/",
+  "insight": "The world has lost 420 million hectares of forest since 1990, with each decade's loss accelerating — our planet's living rings are running out."
+}
